@@ -20,7 +20,7 @@
 
 I am a Full Stack Developer with a huge love for Next.js, JavaScript, Vue.js, React.js, ASP .NET, Node.js, Tailwind, API Dev, Magento, MongoDB, Firebase, SQL, Power BI and System Architecture. Open to new projects, **I'm open to work and employment opportunities**.
 
-## My CV/Resume:
+### My CV/Resume:
 
 You can see and download the pdf copy of my latest resume from below 👇
 
