@@ -16,7 +16,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Mongodb-07405E?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-07405E?style=flat-square&logo=mongodb&logoColor=white)
 
 I am a Full Stack Developer with a huge love for Next.js, JavaScript, Vue.js, React.js, ASP .NET, Node.js, Tailwind, API Dev, Magento, MongoDB, Firebase, SQL, Power BI and System Architecture. Open to new projects, **I'm open to work and employment opportunities**.
 
