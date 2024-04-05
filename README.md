@@ -18,7 +18,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-07405E?style=flat-square&logo=mongodb&logoColor=white)
 
-I am a Full Stack Developer with a huge love for Next.js, JavaScript, Vue.js, React.js, ASP .NET, Node.js, Tailwind, API Dev, Magento, Java, Spring Boot, MongoDB, Firebase, SQL, Power BI and System Architecture. Open to new projects, **I'm open to work and employment opportunities**.
+I am a Full Stack Developer with a huge love for Next.js, JavaScript, Vue.js, React.js, ASP .NET, Node.js, Tailwind, API Dev, Python, Magento, Java, Spring Boot, MongoDB, Firebase, SQL, Power BI and System Architecture. Open to new projects, **I'm open to work and employment opportunities**.
 
 ### My CV/Resume:
 
